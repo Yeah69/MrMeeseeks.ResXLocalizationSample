@@ -1,0 +1,2 @@
+# MrMeeseeks.ResXLocalizationSample
+Sample for demonstrating the localization workflow with MrMeeseeks.ResXTranslationCombinator and MrMeeseeks.ResXToViewModelGenerator.
