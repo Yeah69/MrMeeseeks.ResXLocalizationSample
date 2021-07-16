@@ -58,6 +58,10 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, MrMeeseeks.ResXTranslationCombinator, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
   </resheader>
+  <data name="GoodNightSun" xml:space="preserve">
+    <value>¡Buenas noches, sol!</value>
+    <comment>Automatically Translated</comment>
+  </data>
   <data name="HelloWorld" xml:space="preserve">
     <value>¡Hola, mundo!</value>
     <comment>Automatically Translated</comment>
