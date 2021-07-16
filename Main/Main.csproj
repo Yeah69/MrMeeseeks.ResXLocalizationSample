@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>WinExe</OutputType>
+        <TargetFramework>net5.0-windows</TargetFramework>
+        <UseWPF>true</UseWPF>
+        <RootNamespace>MrMeeseeks.ResXLocalizationSample</RootNamespace>
+        <AssemblyName>$(RootNamespace)</AssemblyName>
+        <EmitCompilerGeneratedFiles>true</EmitCompilerGeneratedFiles>
+        <CompilerGeneratedFilesOutputPath>$(BaseIntermediateOutputPath)\GeneratedFiles</CompilerGeneratedFilesOutputPath>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <EmbeddedResource Update="Properties\Localizations.resx" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="MrMeeseeks.ResXToViewModelGenerator" Version="69.0.20" />
+    </ItemGroup>
+
+</Project>
