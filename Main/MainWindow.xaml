@@ -14,6 +14,7 @@
                   DisplayMemberPath="CultureInfo.DisplayName" />
         <StackPanel DockPanel.Dock="Top">
             <TextBlock Text="{Binding CurrentLoc.HelloWorld, Source={StaticResource CurrentLocViewModel}}" />
+            <TextBlock Text="{Binding CurrentLoc.GoodNightSun, Source={StaticResource CurrentLocViewModel}}" />
         </StackPanel>
     </DockPanel>
 </Window>
