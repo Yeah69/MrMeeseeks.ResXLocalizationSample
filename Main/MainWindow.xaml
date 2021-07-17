@@ -4,6 +4,7 @@
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         mc:Ignorable="d"
+        x:Name="This"
         Title="{Binding CurrentLoc.Title, Source={StaticResource CurrentLocViewModel}}" 
         Height="150"
         Width="400">
@@ -15,6 +16,9 @@
         <StackPanel DockPanel.Dock="Top">
             <TextBlock Text="{Binding CurrentLoc.HelloWorld, Source={StaticResource CurrentLocViewModel}}" />
             <TextBlock Text="{Binding CurrentLoc.GoodNightSun, Source={StaticResource CurrentLocViewModel}}" />
+            <TextBlock Text="{Binding InCodeReactiveText, ElementName=This}" />
+            <Button Content="{Binding CurrentLoc.InCodeOnDemandButton, Source={StaticResource CurrentLocViewModel}}"
+                    Click="InCodeButton_OnClick" />
         </StackPanel>
     </DockPanel>
 </Window>

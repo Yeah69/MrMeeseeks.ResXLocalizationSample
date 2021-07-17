@@ -27,4 +27,16 @@
     <data name="GoodNightSun" xml:space="preserve">
         <value>Good night, sun!</value>
     </data>
+    <data name="InCodeOnDemandButton" xml:space="preserve">
+        <value>Trigger current localization fetch in code</value>
+    </data>
+    <data name="InCodeOnDemandText" xml:space="preserve">
+        <value>This text was fetched from code on demand</value>
+    </data>
+    <data name="InCodeOnDemandTitle" xml:space="preserve">
+        <value>In Code On Demand Sample</value>
+    </data>
+    <data name="InCodeReactiveText" xml:space="preserve">
+        <value>This text is fetched from code and still changes on localization switches</value>
+    </data>
 </root>
