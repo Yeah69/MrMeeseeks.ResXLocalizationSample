@@ -66,6 +66,22 @@
     <value>Tere, maailm!</value>
     <comment>Automatically Translated</comment>
   </data>
+  <data name="InCodeOnDemandButton" xml:space="preserve">
+    <value>Käivitada praeguse lokaliseerimise otsimine koodis</value>
+    <comment>Automatically Translated</comment>
+  </data>
+  <data name="InCodeOnDemandText" xml:space="preserve">
+    <value>See tekst on hangitud koodist nõudmisel</value>
+    <comment>Automatically Translated</comment>
+  </data>
+  <data name="InCodeOnDemandTitle" xml:space="preserve">
+    <value>Koodis On Demand Sample</value>
+    <comment>Automatically Translated</comment>
+  </data>
+  <data name="InCodeReactiveText" xml:space="preserve">
+    <value>See tekst võetakse koodist ja muutub ikka veel lokaliseerimise lülitite puhul.</value>
+    <comment>Automatically Translated</comment>
+  </data>
   <data name="Title" xml:space="preserve">
     <value>ResX lokaliseerimise näidis</value>
     <comment>Automatically Translated</comment>
