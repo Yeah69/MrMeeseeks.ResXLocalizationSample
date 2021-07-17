@@ -66,6 +66,22 @@
     <value>Hello, World!</value>
     <comment>Automatically Translated</comment>
   </data>
+  <data name="InCodeOnDemandButton" xml:space="preserve">
+    <value>コードの中で現在のローカリゼーション・フェッチをトリガーする</value>
+    <comment>Automatically Translated</comment>
+  </data>
+  <data name="InCodeOnDemandText" xml:space="preserve">
+    <value>このテキストは、オンデマンドでコードから取得したものです。</value>
+    <comment>Automatically Translated</comment>
+  </data>
+  <data name="InCodeOnDemandTitle" xml:space="preserve">
+    <value>In Code On Demandサンプル</value>
+    <comment>Automatically Translated</comment>
+  </data>
+  <data name="InCodeReactiveText" xml:space="preserve">
+    <value>このテキストはコードから取得したもので、ローカライズされたスイッチではまだ変更されます。</value>
+    <comment>Automatically Translated</comment>
+  </data>
   <data name="Title" xml:space="preserve">
     <value>ResXローカリゼーションサンプル</value>
     <comment>Automatically Translated</comment>

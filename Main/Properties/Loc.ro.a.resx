@@ -66,6 +66,22 @@
     <value>Bună ziua, lume!</value>
     <comment>Automatically Translated</comment>
   </data>
+  <data name="InCodeOnDemandButton" xml:space="preserve">
+    <value>Declanșează preluarea localizării curente în cod</value>
+    <comment>Automatically Translated</comment>
+  </data>
+  <data name="InCodeOnDemandText" xml:space="preserve">
+    <value>Acest text a fost preluat din cod la cerere</value>
+    <comment>Automatically Translated</comment>
+  </data>
+  <data name="InCodeOnDemandTitle" xml:space="preserve">
+    <value>În Code On Demand Sample</value>
+    <comment>Automatically Translated</comment>
+  </data>
+  <data name="InCodeReactiveText" xml:space="preserve">
+    <value>Acest text este preluat din cod și se schimbă la comutatoarele de localizare</value>
+    <comment>Automatically Translated</comment>
+  </data>
   <data name="Title" xml:space="preserve">
     <value>Proba de localizare ResX</value>
     <comment>Automatically Translated</comment>

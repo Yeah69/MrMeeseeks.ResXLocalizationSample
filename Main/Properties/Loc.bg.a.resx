@@ -66,6 +66,22 @@
     <value>Здравей, Свят!</value>
     <comment>Automatically Translated</comment>
   </data>
+  <data name="InCodeOnDemandButton" xml:space="preserve">
+    <value>Задействане на текущото извличане на локализация в кода</value>
+    <comment>Automatically Translated</comment>
+  </data>
+  <data name="InCodeOnDemandText" xml:space="preserve">
+    <value>Този текст е извлечен от код при поискване</value>
+    <comment>Automatically Translated</comment>
+  </data>
+  <data name="InCodeOnDemandTitle" xml:space="preserve">
+    <value>В кода при поискване на примера</value>
+    <comment>Automatically Translated</comment>
+  </data>
+  <data name="InCodeReactiveText" xml:space="preserve">
+    <value>Този текст се извлича от кода и все още се променя при локализацията на превключвателите</value>
+    <comment>Automatically Translated</comment>
+  </data>
   <data name="Title" xml:space="preserve">
     <value>Проба за локализация на ResX</value>
     <comment>Automatically Translated</comment>

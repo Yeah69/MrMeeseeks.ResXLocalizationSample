@@ -66,6 +66,22 @@
     <value>Ahoj, svet!</value>
     <comment>Automatically Translated</comment>
   </data>
+  <data name="InCodeOnDemandButton" xml:space="preserve">
+    <value>Spustenie načítania aktuálnej lokalizácie v kóde</value>
+    <comment>Automatically Translated</comment>
+  </data>
+  <data name="InCodeOnDemandText" xml:space="preserve">
+    <value>Tento text bol načítaný z kódu na požiadanie</value>
+    <comment>Automatically Translated</comment>
+  </data>
+  <data name="InCodeOnDemandTitle" xml:space="preserve">
+    <value>V ukážke kódu na požiadanie</value>
+    <comment>Automatically Translated</comment>
+  </data>
+  <data name="InCodeReactiveText" xml:space="preserve">
+    <value>Tento text sa načítava z kódu a stále sa mení pri lokalizačných prepínačoch</value>
+    <comment>Automatically Translated</comment>
+  </data>
   <data name="Title" xml:space="preserve">
     <value>Ukážka lokalizácie ResX</value>
     <comment>Automatically Translated</comment>
